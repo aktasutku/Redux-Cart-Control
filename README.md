@@ -1,0 +1,1 @@
+My reference to Shopping Cart structure
